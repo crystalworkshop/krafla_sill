@@ -1,2 +1,2 @@
 # krafla_sill
-Matlab code for the paper Borisova et al., 2022. "In situ probing of the present-day zircon-bearing magma chamber at Krafla" submitted to Geology
+"MatLab code for the paper In situ probing of the present-day zircon-bearing magma chamber at Krafla, Northeastern Iceland by Borisova et al. 2023 in Frontiers in Earth Science
